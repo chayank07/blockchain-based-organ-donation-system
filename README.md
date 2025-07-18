@@ -29,10 +29,3 @@ For a full demo of the UI and workflow, please check the [📂 screenshots folde
 npm install
 truffle compile
 truffle migrate --network development
-
-### Frontend
-
-```bash
-cd organ-donation-frontend
-npm install
-npm start
