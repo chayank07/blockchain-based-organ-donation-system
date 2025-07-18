@@ -1,0 +1,8 @@
+node_modules/
+build/
+artifacts/
+cache/
+.DS_Store
+Thumbs.db
+.env
+*.zip
